@@ -8,14 +8,14 @@ Elsa Wanjiru
 This portfolio describes about myself
 
 ## Installation process
-''''
+
+````
 git clone https://github.com/elsawanjiru/Elsa-...37.git
 git init
 git add .
 git commit -m "initial commit"
 git push origin
-
-''''
+````
 
 ## Link to Live Site
 
