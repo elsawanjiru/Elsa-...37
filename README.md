@@ -17,7 +17,7 @@ git commit -m "initial commit"
 git push origin
 ````
 
-## Link to Live Site
+## Github pages
 
 https://elsawanjiru.github.io/Elsa-...37/
 
